@@ -1,0 +1,507 @@
+HCPCS_Cd,HCPCS_Desc,HCPCS_Drug_Ind
+11102,"Biopsy of related skin growth, first growth",N
+11103,"Biopsy of related skin growth, each additional growth",N
+17000,"Destruction of precancer skin growth, 1 growth",N
+17003,"Destruction of precancer skin growth, 2-14 growths",N
+17110,"Destruction of skin growth, 1-14 growths",N
+99203,"New patient office or other outpatient visit, 30-44 minutes",N
+99212,"Established patient office or other outpatient visit, 10-19 minutes",N
+99213,"Established patient office or other outpatient visit, 20-29 minutes",N
+99214,"Established patient office or other outpatient visit, 30-39 minutes",N
+11403,"Removal of noncancer skin growth of body, arms, or legs, 2.1-3.0 cm",N
+11603,"Removal of cancer skin growth of body, arms, or legs, 2.1-3.0 cm",N
+11623,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, 2.1-3.0 cm",N
+11643,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 2.1-3.0 cm",N
+12032,"Intermediate repair of wound of scalp, underarms, trunk, arms, or legs, 2.6-7.5 cm",N
+12042,"Intermediate repair of wound of neck, hands, feet, or genitals, 2.6-7.5 cm",N
+12052,"Intermediate repair of wound of face, ears, eyelids, nose, lips, or mouth, 2.6-5.0 cm",N
+12053,"Intermediate repair of wound of face, ears, eyelids, nose, lips, or mouth, 5.1-7.5 cm",N
+17004,"Destruction of precancer skin growth, 15 or more growths",N
+17111,"Destruction of skin growth, 15 or more growths",N
+99202,"New patient office or other outpatient visit, 15-29 minutes",N
+10040,Acne surgery,N
+11602,"Removal of cancer skin growth of body, arms, or legs, 1.1-2.0 cm",N
+11900,"Injection into skin growth, 1-7 growths",N
+13120,"Complicated repair of wound of scalp, arms, or legs, 1.1-2.5 cm",N
+13121,"Complicated repair of wound of scalp, arms, or legs, 2.6-7.5 cm",N
+13131,"Complicated repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet, 1.1-2.5 cm",N
+13132,"Complicated repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet, 2.6-7.5 cm",N
+13151,"Complicated repair of wound of eyelids, nose, ears, or lip, 1.1-2.5 cm",N
+14060,"Repair of wound of eyelids, nose, ears, or lips by transferring skin, 10.0 sq cm or less",N
+17250,Application of chemical to stop tissue regrowth in wound,N
+17311,"Removal and microscopic exam of growth of head, neck, hands, feet, or genitals, 1-5 tissue blocks",N
+17312,"Removal and microscopic exam of growth of head, neck, hands, feet, or genitals, each additional stage, 1-5 tissue blocks",N
+17313,"Removal and microscopic exam of growth of trunk, arms, or legs, 1-5 tissue blocks",N
+69100,Biopsy of ear,N
+99204,"New patient office or other outpatient visit, 45-59 minutes",N
+11300,"Shaving of skin growth of body, arms, or legs, 0.5 cm or less",N
+11301,"Shaving of skin growth of body, arms, or legs, 0.6-1.0 cm",N
+11604,"Removal of cancer skin growth of body, arms, or legs, 3.1-4.0 cm",N
+12034,"Intermediate repair of wound of scalp, underarms, trunk, arms, or legs, 7.6-12.5 cm",N
+12044,"Intermediate repair of wound of neck, hands, feet, or genitals, 7.6-12.5 cm",N
+12051,"Intermediate repair of wound of face, ears, eyelids, nose, lips, or mouth, 2.5 cm or less",N
+12054,"Intermediate repair of wound of face, ears, eyelids, nose, lips, or mouth, 7.6-12.5 cm",N
+13152,"Complicated repair of wound of eyelids, nose, ears, or lip, 2.6-7.5 cm",N
+15260,"Full thickness skin graft to nose, ears, eyelids, or lips, 20.0 sq cm or less",N
+17261,"Destruction of cancer skin growth of trunk, arms, or legs, 0.6-1.0 cm",N
+17262,"Destruction of cancer skin growth of trunk, arms, or legs, 1.1-2.0 cm",N
+17271,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, 0.6-1.0 cm",N
+17272,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, 1.1-2.0 cm",N
+17281,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.6-1.0 cm",N
+17314,"Removal and microscopic exam of growth of trunk, arms, or legs, each additional stage, 1-5 tissue blocks",N
+88302,Pathology examination of tissue using a microscope,N
+88304,"Pathology examination of tissue using a microscope, moderately low complexity",N
+88305,"Pathology examination of tissue using a microscope, intermediate complexity",N
+88331,"Pathology examination of specimen during surgery, first tissue block",N
+88332,"Pathology examination of specimen during surgery, each additional tissue block",N
+11402,"Removal of noncancer skin growth of body, arms, or legs, 1.1-2.0 cm",N
+11622,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, 1.1-2.0 cm",N
+13101,"Complicated repair of wound of trunk, 2.6-7.5 cm",N
+96567,Application of light to destroy precancer skin growth,N
+12031,"Intermediate repair of wound of scalp, underarms, trunk, arms, or legs, 2.5 cm or less",N
+14061,"Repair of wound of eyelids, nose, ears, or lips by transferring skin, 10.1-30.0 sq cm",N
+15275,"Application of skin substitute graft to wound of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 25.0 sq cm or less of wound 100.0 sq cm or less",N
+97597,"Removal of tissue from wound, 20.0 sq cm or less",N
+Q4180,"Revita, per square centimeter",N
+11104,"Punch biopsy, first skin growth",N
+96910,Therapy procedure using ultraviolet radiation with tar or petroleum jelly application,N
+11401,"Removal of noncancer skin growth of body, arms, or legs, 0.6-1.0 cm",N
+96574,Application of light with debridement to destroy precancer skin growth,N
+11901,"Injection into skin growth, more than 7 growths",N
+77280,"Obtaining data needed to develop the optimal radiation treatment, 1 treatment area",N
+77300,Calculation of radiation therapy dose,N
+77334,Design and construction of complex radiation treatment device,N
+77336,Continuing radiation therapy consultation per week,N
+77401,Superficial and/or low voltage radiation treatment delivery,N
+77427,"Radiation treatment management, 5 treatment sessions",N
+96372,Injection of drug or substance under skin or into muscle,N
+G6001,Ultrasonic guidance for placement of radiation therapy fields,N
+13122,"Complicated repair of wound of scalp, arms, or legs, each additional 5.0 cm or less",N
+29580,"Strapping, unna boot",N
+11200,"Removal of skin tag, 1-15 skin tags",N
+11310,"Shaving of skin growth of face, ears, eyelids, nose, lips, or mouth, 0.5 cm or less",N
+11105,"Punch biopsy, each additional skin growth",N
+99221,"Initial hospital inpatient care per day, typically 30 minutes",N
+96573,Application of light by qualified health care professional to destroy precancer skin growth,N
+17108,"Destruction of birthmark, more than 50.0 sq cm",N
+88312,Special stained specimen slides to identify organisms including interpretation and report,N
+88341,"Special stained specimen slides to examine tissue, each additional procedure",N
+88342,"Special stained specimen slides to examine tissue, initial procedure",N
+11042,"Removal of skin and tissue, 20.0 sq cm or less",N
+14021,"Repair of wound of scalp, arms, or legs by transferring skin, 10.1-30.0 sq cm",N
+14041,"Repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet by transferring skin, 10.1-30.0 sq cm",N
+14301,"Repair of wound by transferring skin, 30.1-60.0 sq cm",N
+14302,"Repair of wound by transferring skin, each additional 30.0 sq cm",N
+15004,"Preparation of skin graft site of face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 100.0 sq cm or 1% body area for infants and children, or less",N
+15240,"Full thickness skin graft to forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet, 20.0 sq cm or less",N
+15271,"Application of skin substitute graft to wound of trunk, arms, or legs, 25.0 sq cm or less of wound 100.0 sq cm or less",N
+10060,Simple or single drainage of skin abscess,N
+11422,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, 1.1-2.0 cm",N
+13102,"Complicated repair of wound of trunk, each additional 5.0 cm or less",N
+96405,"Administration of chemotherapy into growth, 1-7",N
+67850,"Destruction of growth of eyelid margin, 1.0 cm or less",N
+99215,"Established patient office or other outpatient visit, 40-54 minutes",N
+11303,"Shaving of skin growth of body, arms, or legs, more than 2.0 cm",N
+11642,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 1.1-2.0 cm",N
+14040,"Repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet by transferring skin, 10.0 sq cm or less",N
+11302,"Shaving of skin growth of body, arms, or legs, 1.1-2.0 cm",N
+11311,"Shaving of skin growth of face, ears, eyelids, nose, lips, or mouth, 0.6-1.0 cm",N
+99451,"Telephone or internet assessment with written report by consulting physician, 5 minutes or more",N
+11606,"Removal of cancer skin growth of body, arms, or legs, more than 4.0 cm",N
+17260,"Destruction of cancer skin growth of trunk, arms, or legs, 0.5 cm or less",N
+96900,Application of ultraviolet light to skin,N
+17263,"Destruction of cancer skin growth of trunk, arms, or legs, 2.1-3.0 cm",N
+17273,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, 2.1-3.0 cm",N
+17282,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 1.1-2.0 cm",N
+36415,Insertion of needle into vein for collection of blood sample,N
+11106,"Incision biopsy, first skin growth",N
+17280,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.5 cm or less",N
+12002,"Simple repair of surface wound of scalp, neck, underarms, trunk, arms, or legs, 2.6-7.5 cm",N
+11305,"Shaving of skin growth of scalp, neck, hands, feet, or genitals, 0.5 cm or less",N
+88313,Special stained specimen slides to examine tissue including interpretation and report,N
+77290,"Obtaining data needed to develop the optimal radiation treatment, 3 or more treatment areas or any number of treatment areas where special treatment is involved",N
+77332,Design and construction of simple radiation treatment device,N
+67810,Biopsy of eyelid,N
+87101,"Fungal culture (mold or yeast) of skin, hair, or nail",N
+96920,"Treatment of inflammatory skin disease using laser, less than 250.0 sq cm",N
+11306,"Shaving of skin growth of scalp, neck, hands, feet, or genitals, 0.6-1.0 cm",N
+11307,"Shaving of skin growth of scalp, neck, hands, feet, or genitals, 1.1-2.0 cm",N
+11312,"Shaving of skin growth of face, ears, eyelids, nose, lips, or mouth, 1.1-2.0 cm",N
+88311,Preparation of tissue for examination by removing any calcium present,N
+95044,Test for allergy using skin patch,N
+Q0112,All potassium hydroxide (koh) preparations,N
+77261,Simple radiation therapy planning,N
+11000,"Removal of inflamed or infected skin, up to 10% of body surface",N
+99422,"Online digital evaluation and management service for an established patient for up to 7 days, total time 11-20 minutes",N
+G2010,"Remote evaluation of recorded video and/or images submitted by an established patient (e.g., store and forward), including interpretation with follow-up with the patient within 24 business hours, not originating from a related e/m service provided within t",N
+G0008,Administration of influenza virus vaccine,N
+11601,"Removal of cancer skin growth of body, arms, or legs, 0.6-1.0 cm",N
+11621,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, 0.6-1.0 cm",N
+11641,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.6-1.0 cm",N
+12041,"Intermediate repair of wound of neck, hands, feet, or genitals, 2.5 cm or less",N
+11313,"Shaving of skin growth of face, ears, eyelids, nose, lips, or mouth, more than 2.0 cm",N
+17283,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 2.1-3.0 cm",N
+11308,"Shaving of skin growth of scalp, neck, hands, feet, or genitals, more than 2.0 cm",N
+17264,"Destruction of cancer skin growth of trunk, arms, or legs, 3.1-4.0 cm",N
+17266,"Destruction of cancer skin growth of trunk, arms, or legs, more than 4.0 cm",N
+11400,"Removal of noncancer skin growth of body, arms, or legs, 0.5 cm or less",N
+10061,Complicated or multiple drainage of skin abscess,N
+87220,Tissue fungi or parasites,N
+11441,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.6-1.0 cm",N
+Q4197,"Puraply xt, per square centimeter",N
+99232,"Follow-up hospital inpatient care per day, typically 25 minutes",N
+14020,"Repair of wound of scalp, arms, or legs by transferring skin, 10.0 sq cm or less",N
+17107,"Destruction of birthmark, 10.0-50.0 sq cm",N
+88321,Surgical pathology consultation and report on referred slides prepared elsewhere,N
+88346,"Antibody evaluation, initial single antibody stain procedure",N
+88350,"Antibody evaluation, each additional single antibody stain procedure",N
+99222,"Initial hospital inpatient care per day, typically 50 minutes",N
+13133,"Complicated repair of wound of forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet, each additional 5.0 cm or less",N
+17315,"Removal and microscopic exam of growth, each additional block after 5 tissue blocks",N
+10160,"Aspiration of abscess, blood, or cyst",N
+14001,"Repair of wound of trunk by transferring skin, 10.1-30.0 sq cm",N
+96921,"Treatment of inflammatory skin disease using laser, 250.0-500.0 sq cm",N
+U0002,"2019-ncov coronavirus, sars-cov-2/2019-ncov (covid-19), any technique, multiple types or subtypes (includes all targets), non-cdc",N
+11107,"Incision biopsy, each additional skin growth",N
+93970,Ultrasound study of arm or leg veins with compression and maneuvers,N
+99205,"New patient office or other outpatient visit, 60-74 minutes",N
+40490,Biopsy of lip,N
+88360,"Microscopic genetic analysis of tumor, manual",N
+12011,"Simple repair of surface wound of face, ears, eyelids, nose, lips, or mouth, 2.5 cm or less",N
+77262,Intermediate radiation therapy planning,N
+77263,Complex radiation therapy planning,N
+77285,"Obtaining data needed to develop the optimal radiation treatment, 2 treatment areas",N
+11406,"Removal of noncancer skin growth of body, arms, or legs, more than 4.0 cm",N
+11421,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, 0.6-1.0 cm",N
+11442,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, 1.1-2.0 cm",N
+17360,Chemical treatment of acne,N
+96922,"Treatment of inflammatory skin disease using laser, more than 500.0 sq cm",N
+12001,"Simple repair of surface wound of scalp, neck, underarms, trunk, arms, or legs, 2.5 cm or less",N
+13100,"Complicated repair of wound of trunk, 1.1-2.5 cm",N
+15120,"Partial thickness self skin graft to face, scalp, eyelids, mouth, neck, ears, around eyes, genitals, hands, feet, fingers, or toes, 100.0 sq cm or 1% body area for infants and children, or less",N
+17270,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, 0.5 cm or less",N
+11755,Biopsy of fingernail or toenail,N
+11640,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.5 cm or less",N
+11404,"Removal of noncancer skin growth of body, arms, or legs, 3.1-4.0 cm",N
+15220,"Full thickness skin graft to scalp, arms, or legs, 20.0 sq cm or less",N
+11055,"Removal of noncancer thickened skin growth, 1 growth",N
+99211,Office or other outpatient visit for the evaluation and management of established patient that may not require presence of healthcare professional,N
+Q4227,"Amniocore, per square centimeter",N
+87635,Amplifed dna or rna probe detection of severe acute respiratory syndrome coronavirus 2 (covid-19) antigen,N
+71046,"X-ray of chest, 2 views",N
+81003,Automated urinalysis test,N
+87502,Detection test by nucleic acid for multiple types influenza virus,N
+87651,"Detection test by nucleic acid for strep (streptococcus, group a), amplified probe technique",N
+87804,Detection test by immunoassay with direct visual observation for influenza virus,N
+87811,Detection test by immunoassay with direct visual observation for severe acute respiratory syndrome coronavirus 2 (covid-19),N
+99441,"Telephone medical discussion with physician, 5-10 minutes",N
+0394T,"High dose rate electronic brachytherapy, external",N
+77600,"Use of externally generated heat to increase temperature of cancer cell, heating to depths 4.0 cm or less",N
+11644,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 3.1-4.0 cm",N
+99231,"Follow-up hospital inpatient care per day, typically 15 minutes",N
+10140,Drainage of blood or fluid accumulation,N
+11420,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, 0.5 cm or less",N
+88314,Special stained specimen slides to examine tissue and frozen preparation of specimen including interpretation and report,N
+17106,"Destruction of birthmark, less than 10.0 sq cm",N
+80053,"Blood test, comprehensive group of blood chemicals",N
+85025,"Complete blood cell count (red cells, white blood cell, platelets), automated test and automated differential white blood cell count",N
+87070,"Bacterial culture, any other source except urine, blood or stool, aerobic",N
+87205,Special gram or giemsa stain for microorganism,N
+95004,Test for allergy using allergenic extract,N
+99326,"New patient custodial care facility, group care, or assisted living visit, typically 45 minutes",N
+99335,"Established patient custodial care facility, group care, or assisted living visit, typically 25 minutes",N
+99336,"Established patient custodial care facility, group care, or assisted living visit, typically 40 minutes",N
+36471,Injection of chemical agent into multiple incompetent veins of leg,N
+36478,Laser destruction of incompetent vein of arm or leg using imaging guidance,N
+76942,Ultrasonic guidance for needle placement,N
+93971,Ultrasound study of one arm or leg veins with compression and maneuvers,N
+11043,"Removal of muscle and/or tissue, 20.0 sq cm or less",N
+11045,"Removal of skin and tissue, each additional 20.0 sq cm or less",N
+99304,"Initial nursing facility visit per day, typically 25 minutes",N
+99305,"Initial nursing facility visit per day, typically 35 minutes",N
+99306,"Initial nursing facility visit per day, typically 45 minutes",N
+99307,"Follow-up nursing facility visit per day, typically 10 minutes",N
+99308,"Follow-up nursing facility visit per day, typically 15 minutes",N
+99309,"Follow-up nursing facility visit per day, typically 25 minutes",N
+99310,"Follow-up nursing facility visit per day, typically 35 minutes",N
+99334,"Established patient custodial care facility, group care, or assisted living visit, typically 15 minutes",N
+99337,"Established patient custodial care facility, group care, or assisted living visit, typically 1 hour",N
+99349,"Established patient home visit, typically 40 minutes",N
+99350,"Established patient home visit, typically 1 hour",N
+Q4232,"Corplex, per square centimeter",N
+99442,"Telephone medical discussion with physician, 11-20 minutes",N
+99421,"Online digital evaluation and management service for an established patient for up to 7 days, total time 5-10 minutes",N
+86580,Skin test for tuberculosis,N
+99343,"New patient home visit, typically 45 minutes",N
+99443,"Telephone medical discussion with physician, 21-30 minutes",N
+80076,Liver function blood test panel,N
+40820,Destruction of growth or scar of mouth,N
+12020,Simple closure of surface wound reopening,N
+11440,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, 0.5 cm or less",N
+11624,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, 3.1-4.0 cm",N
+99285,Emergency department visit for life threatening or functioning severity,N
+11443,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, 2.1-3.0 cm",N
+88307,"Pathology examination of tissue using a microscope, moderately high complexity",N
+56605,"Biopsy of growth of external female genitals, first growth",N
+Q4194,"Novachor, per square centimeter",N
+11626,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, more than 4.0 cm",N
+Q4169,"Artacent wound, per square centimeter",N
+15740,Creation of skin and tissue graft,N
+10120,"Removal of foreign body from tissue, accessed beneath the skin, simple",N
+11423,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, 2.1-3.0 cm",N
+11424,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, 3.1-4.0 cm",N
+11444,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, 3.1-4.0 cm",N
+11426,"Removal of noncancer skin growth of scalp, neck, hands, feet, or genitals, more than 4.0 cm",N
+G6003,"Radiation treatment delivery, single treatment area,single port or parallel opposed ports, simple blocks or no blocks: up to 5 mev",N
+88344,"Special stained specimen slides to examine tissue, each multiplex procedure",N
+88364,"Genetic sequencing localization, each additional procedure",N
+88365,"Genetic sequencing localization, initial procedure",N
+88300,"Pathology examination of tissue using a microscope, limited examination",N
+88323,Surgical pathology consultation and report on referred material requiring preparation of slides,N
+96401,Administration of non-hormonal anti-neoplastic chemotherapy under skin or into muscle,N
+13160,Extensive or complicated repair of surface wound reopening,N
+G0429,"Dermal filler injection(s) for the treatment of facial lipodystrophy syndrome (lds) (e.g., as a result of highly active antiretroviral therapy)",N
+Q2028,"Injection, sculptra, 0.5 mg",N
+96931,"Imaging of skin growth using microscope with interpretation and report, first growth",N
+15100,"Partial thickness self skin graft to trunk, arms, or legs, 100.0 sq cm or 1% body area for infants and children, or less",N
+87102,Fungal culture (mold or yeast),N
+15788,Chemical peel of outer layer of skin of face,N
+80505,"Pathology clinical consultation for complex clinical problem, 41-60 minutes",N
+87210,Smear for infectious agents,N
+67840,Removal of growth of eyelid,N
+96904,Photograph of entire body,N
+0003A,Adm sarscov2 30mcg/0.3ml 3rd,N
+15789,Chemical peel of deep layer of skin of face,N
+15793,Chemical peel of deep layer of nonfacial skin,N
+21555,"Removal of growth under skin of neck or front of chest, less than 3.0 cm",N
+29581,"Application of vein wound compression bandages on lower leg, ankle, and foot",N
+15576,"Creation of flap graft to eyelids, nose, ears, lips, or mouth",N
+15630,"Transfer of skin flap to eyelids, nose, ears, or lips",N
+21235,Obtaining ear cartilage for grafting,N
+99406,"Smoking and tobacco use intensive counseling, 4-10 minutes",N
+U0004,"2019-ncov coronavirus, sars-cov-2/2019-ncov (covid-19), any technique, multiple types or subtypes (includes all targets), non-cdc, making use of high throughput technologies as described by cms-2020-01-r",N
+U0005,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, cdc or non-cdc, making use of high throughput technologies, completed within",N
+99415,"Extended office or other outpatient service by clinical staff, first hour",N
+21011,"Removal of growth under skin of face or scalp, less than 2.0 cm",N
+17274,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, 3.1-4.0 cm",N
+Q4158,"Kerecis omega3, per square centimeter",N
+G6007,"Radiation treatment delivery, 2 separate treatment areas, 3 or more ports on a single treatment area, use of multiple blocks: up to 5 mev",N
+Q4205,"Membrane graft or membrane wrap, per square centimeter",N
+Q4217,"Woundfix, biowound, woundfix plus, biowound plus, woundfix xplus or biowound xplus, per square centimeter",N
+Q4253,"Zenith amniotic membrane, per square centimeter",N
+70450,Ct scan head or brain without contrast,N
+70486,Ct scan of face without contrast,N
+70496,Ct scan of blood vessels of head with contrast,N
+70498,Ct scan of blood vessels of neck with contrast,N
+70551,Mri scan of brain without contrast,N
+71045,"X-ray of chest, 1 view",N
+71101,"X-ray of ribs on side of body, minimum of 3 views",N
+71250,Ct scan of chest without contrast,N
+71260,Ct scan of chest with contrast,N
+71275,Ct scan of blood vessels of chest with contrast,N
+72100,"X-ray of lower and sacral spine, 2-3 views",N
+72125,Ct scan of upper spine without contrast,N
+72128,Ct scan of middle spine without contrast,N
+72131,Ct scan of lower spine without contrast,N
+72170,"X-ray of pelvis, 1-2 views",N
+72192,Ct scan of pelvis without contrast,N
+73030,"X-ray of shoulder, minimum of 2 views",N
+73090,"X-ray of forearm, 2 views",N
+73110,"X-ray of wrist, minimum of 3 views",N
+73130,"X-ray of hand, minimum of 3 views",N
+73502,"X-ray of hip, 2-3 views",N
+73552,"X-ray of thigh bone, minimum 2 views",N
+73562,"X-ray of knee, 3 views",N
+73590,"X-ray of lower leg, 2 views",N
+73610,"X-ray of ankle, minimum of 3 views",N
+73630,"X-ray of foot, minimum of 3 views",N
+74018,"X-ray of abdomen, 1 view",N
+74174,Ct scan of blood vessels of abdomen and pelvis with contrast,N
+74176,Ct scan of abdomen and pelvis without contrast,N
+74177,Ct scan of abdomen and pelvis with contrast,N
+76705,Limited ultrasound scan of abdomen,N
+76770,Complete ultrasound scan behind abdominal cavity,N
+17340,Cold treatment of acne,N
+21550,Biopsy of soft tissue of neck or chest,N
+21920,Biopsy of surface soft tissue to back or lower sides,N
+23065,Biopsy of surface tissue of shoulder,N
+24065,Biopsy of surface tissue of upper arm or elbow,N
+25065,Biopsy of surface tissue of forearm or wrist,N
+27040,Biopsy of surface tissue of pelvis and hip,N
+27323,Biopsy of surface tissue of thigh or knee,N
+27613,Biopsy of surface tissue of leg or ankle,N
+14000,"Repair of wound of trunk by transferring skin, 10.0 sq cm or less",N
+36522,Mechanical separation of white blood cells and platelets from blood,N
+99223,"Initial hospital inpatient care per day, typically 70 minutes",N
+11600,"Removal of cancer skin growth of body, arms, or legs, 0.5 cm or less",N
+Q0111,"Wet mounts, including preparations of vaginal, cervical or skin specimens",N
+G2012,"Brief communication technology-based service, e.g. virtual check-in, by a physician or other qualified health care professional who can report evaluation and management services, provided to an established patient, not originating from a related e/m servic",N
+99233,"Follow-up hospital inpatient care per day, typically 35 minutes",N
+11646,"Removal of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, more than 4.0 cm",N
+36465,Injection of chemical agent into single incompetent vein of leg using ultrasound guidance,N
+36470,Injection of chemical agent into single incompetent vein,N
+77333,Design and construction of intermediate radiation treatment device,N
+12035,"Intermediate repair of wound of scalp, underarms, trunk, arms, or legs, 12.6-20.0 cm",N
+95117,Professional service for multiple injections of allergen,N
+95165,Professional service for preparation and provision of 1 or more antigens,N
+12013,"Simple repair of surface wound of face, ears, eyelids, nose, lips, or mouth, 2.6-5.0 cm",N
+G2212,Prolonged office or other outpatient evaluation and management service(s) beyond the maximum required time of the primary procedure which has been selected using total time on the date of the primary service; each additional 15 minutes by the physician or,N
+88309,"Pathology examination of tissue using a microscope, high complexity",N
+87426,Detection test by immunoassay technique for severe acute respiratory syndrome coronavirus,N
+17284,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, 3.1-4.0 cm",N
+99452,"Telephone or internet referral service, 30 minutes",N
+Q4190,"Artacent ac, per square centimeter",N
+17276,"Destruction of cancer skin growth of scalp, neck, hands, feet, or genitals, more than 4.0 cm",N
+17286,"Destruction of cancer skin growth of face, ears, eyelids, nose, lips, or mouth, more than 4.0 cm",N
+86704,Hepatitis b core antibody measurement,N
+86706,Hepatitis b surface antibody measurement,N
+86708,Measurement of hepatitis a antibody,N
+86803,Hepatitis c antibody measurement,N
+87340,Detection test by immunoassay technique for hepatitis b surface antigen,N
+U0003,"Infectious agent detection by nucleic acid (dna or rna); severe acute respiratory syndrome coronavirus 2 (sars-cov-2) (coronavirus disease [covid-19]), amplified probe technique, making use of high throughput technologies as described by cms-2020-01-r",N
+87077,Bacterial culture for aerobic isolates,N
+87186,"Evaluation of antimicrobial drug (antibiotic, antifungal, antiviral), microdilution or agar dilution",N
+88368,"Microscopic genetic analysis of tissue, manual, initial procedure",N
+86430,Rheumatoid factor analysis,N
+85027,"Complete blood cell count (red cells, white blood cell, platelets), automated test",N
+85651,"Red blood cell sedimentation rate, to detect inflammation, non-automated",N
+86140,Measurement c-reactive protein for detection of infection or inflammation,N
+88325,"Surgical pathology consultation and report, comprehensive",N
+99358,"Extended patient service without direct patient contact, first hour",N
+15792,Chemical peel of outer layer of nonfacial skin,N
+97110,"Therapy procedure using exercise to develop strength, endurance, range of motion, and flexibility, each 15 minutes",N
+97140,"Therapy procedure using manual technique, each 15 minutes",N
+99315,"Nursing facility discharge day management, 30 minutes or less",N
+99316,"Nursing facility discharge management, more than 30 minutes",N
+99318,"Nursing facility annual assessment, typically 30 minutes",N
+99497,"Advance care planning, first 30 minutes",N
+87106,"Fungal culture, yeast",N
+82306,Vitamin d-3 level,N
+82728,Ferritin (blood protein) level,N
+83540,Iron level,N
+84443,"Blood test, thyroid stimulating hormone (tsh)",N
+29584,"Application of vein wound compression bandages on upper arm, forearm, hand, and fingers",N
+30100,Biopsy of lining of nose,N
+36482,Chemical destruction of first incompetent vein of arm or leg using imaging guidance,N
+37765,"Removal of varicose veins of arm or leg, 10-20 incisions",N
+11620,"Removal of cancer skin growth of scalp, neck, hands, feet, or genitals, 0.5 cm or less",N
+86480,"Tuberculosis test, gamma interferon",N
+99324,"New patient custodial care facility, group care, or assisted living visit, typically 20 minutes",N
+99325,"New patient custodial care facility, group care, or assisted living visit, typically 30 minutes",N
+Q4234,"Xcellerate, per square centimeter",N
+Q3014,Telehealth originating site facility fee,N
+31231,Diagnostic exam of nasal passages using an endoscope,N
+94010,Test to measure expiratory airflow and volume,N
+15002,"Preparation of skin graft site of trunk, arms, or legs, 100.0 sq cm or 1% body area for infants and children, or less",N
+0598T,"Fluorescence wound imaging for bacteria, first anatomic site",N
+J3490,Unclassified drugs,N
+96933,"Interpretation and report of imaging of skin growth using microscope, first growth",N
+15786,"Scraping of skin growth, first growth",N
+21554,"Removal of growth of muscle of neck or front of chest, 5.0 cm or more",N
+21933,"Removal of growth of muscle of back or lower sides, 5.0 cm or more",N
+87207,Special stain for inclusion bodies or parasites,N
+A2007,"Restrata, per square centimeter",N
+99239,"Hospital discharge day management, more than 30 minutes",N
+Q4244,"Procenta, per 200 mg",N
+15852,Dressing change under anesthesia,N
+15574,"Creation of flap graft to forehead, cheeks, chin, mouth, neck, underarms, genitals, hands, or feet",N
+16020,"Dressing change or removal of burn tissue, less than 5% of total body surface",N
+11720,"Removal of fingernails or toenails, 1-5 nails",N
+11721,"Removal of fingernails or toenails, 6 or more nails",N
+21930,"Removal of growth under skin of back or lower sides, less than 3.0 cm",N
+Q4117,"Hyalomatrix, per square centimeter",N
+88189,"Flow cytometry technique for dna or cell analysis, 16 or more markers",N
+40808,Biopsy of mouth,N
+21932,"Removal of growth of muscle of back or lower sides, less than 5.0 cm",N
+21016,"Extensive removal of growth of face or scalp, 2.0 cm or more",N
+15781,Dermabrasion of skin of part of face,N
+G0406,"Follow-up inpatient consultation, limited, physicians typically spend 15 minutes communicating with the patient via telehealth",N
+G0425,"Telehealth consultation, emergency department or initial inpatient, typically 30 minutes communicating with the patient via telehealth",N
+64400,Injection of anesthetic agent and/or steroid into face nerve,N
+0658T,Electrical impedance spectroscopy of 1 or more skin growths to evaluate risk of melanoma,N
+90471,Administration of vaccine,N
+93000,Routine electrocardiogram (ecg) using at least 12 leads with interpretation and report,N
+G0009,Administration of pneumococcal vaccine,N
+80061,"Blood test, lipids (cholesterol and triglycerides)",N
+11056,"Removal of noncancer thickened skin growth, 2-4 growths",N
+11730,"Simple separation of fingernail or toenail from nail bed, first nail",N
+11732,"Simple separation of fingernail or toenail from nail bed, each additional nail",N
+67800,Removal of chronic growth of eyelid,N
+99423,"Online digital evaluation and management service for an established patient for up to 7 days, total time 21 or more minutes",N
+64612,Injection of chemical for paralysis of nerve muscles on side of face,N
+Q4124,"Oasis ultra tri-layer wound matrix, per square centimeter",N
+82565,Blood creatinine level,N
+84520,"Urea nitrogen level to assess kidney function, quantitative",N
+86317,"Detection of infectious agent antibody, quantitative",N
+85610,"Blood test, clotting time",N
+96365,"Infusion into a vein for therapy, prevention, or diagnosis, 1 hour or less",N
+96413,"Administration of chemotherapy into vein, 1 hour or less",N
+69110,Partial removal of external ear with simple repair,N
+36475,Destruction of first incompetent vein of arm or leg using radiofrequency and imaging guidance,N
+15760,Graft with closure of wound,N
+96912,Therapy procedure using ultraviolet radiation,N
+99446,"Telephone or internet assessment with verbal and written report by consulting physician, 5-10 minutes",N
+84450,"Liver enzyme (sgot), level",N
+84460,"Liver enzyme (sgpt), level",N
+10080,Simple drainage of cyst of tailbone,N
+11201,"Removal of skin tag, each additional 10 skin tags",N
+95115,Professional service for single injection of allergen,N
+87071,Bacterial culture and colony count,N
+99284,Emergency department visit for problem of high severity,N
+29700,"Removal or cutting of gauntlet, boot, or body cast",N
+87389,Detection test by immunoassay technique for hiv-1 antigen and hiv-1 and hiv-2 antibodies,N
+83516,"Analysis of substance using immunoassay technique, multiple step method",N
+86256,Measurement of antibody to noninfectious agent,N
+G0180,"Physician or allowed practitioner certification for medicare-covered home health services under a home health plan of care (patient not present), including contacts with home health agency and review of reports of patient status required by physicians and",N
+19081,"Biopsy of breast and placement of locating device using x-ray with needle, first growth",N
+19083,"Biopsy of breast and placement of locating device using ultrasound, first growth",N
+19281,"Placement of locating device in breast using imaging guidance, first growth",N
+19282,"Placement of locating device in breast using imaging guidance, each additional growth",N
+76098,X-ray of surgical specimen,N
+76641,Complete ultrasound scan of 1 breast,N
+76642,Limited ultrasound scan of 1 breast,N
+77049,Mri scan of both breasts,N
+77063,Screening 3d breast mammography,N
+77065,Diagnostic mammography of 1 breast,N
+77066,Diagnostic mammography of both breasts,N
+77067,Screening mammography,N
+G0279,"Diagnostic digital breast tomosynthesis, unilateral or bilateral (list separately in addition to 77065 or 77066)",N
+85652,"Red blood cell sedimentation rate, to detect inflammation, automated",N
+36410,Insertion of needle into vein (3 years or older),N
+82270,Stool analysis for blood to screen for colon tumors,N
+11446,"Removal of noncancer skin growth of face, ears, eyelids, nose, lips, or mouth, more than 4.0 cm",N
+93923,Complete ultrasound study of arm and leg arteries,N
+97112,"Therapy procedure to re-educate brain-to-nerve-to-muscle function, each 15 minutes",N
+G0283,"Electrical stimulation (unattended), to one or more areas for indication(s) other than wound care, as part of a therapy plan of care",N
+Q4249,"Amniply, for topical use only, per square centimeter",N
+30465,Repair of nasal passage,N
+15731,"Creation of flap graft to nose, forehead, temple, or scalp",N
+40654,Repair of vertical lip wound extending to over half of lip,N
+99217,Hospital observation care on day of discharge,N
+99238,"Hospital discharge day management, 30 minutes or less",N
+Q4229,"Cogenex amniotic membrane, per square centimeter",N
+Q4222,"Progenamatrix, per square centimeter",N
+15733,Creation of flap graft to head and/or neck,N
+99328,"New patient custodial care facility, group care, or assisted living visit, typically 75 minutes",N
+99345,"New patient home visit, typically 75 minutes",N
+96127,Assessment of emotional or behavioral problems,N
+95018,Test for allergy using combination of methods with drug or biological,N
+95024,Test for allergy using allergenic extract injected into skin,N
+69300,Repair of protruding ear,N
+96932,"Imaging of skin growth using microscope, first growth",N
+Q4136,"Ez-derm, per square centimeter",N
+13153,"Complicated repair of wound of eyelids, nose, ears, or lip, each additional 5.0 cm or less",N
+Q4208,"Novafix, per square cenitmeter",N
+G0439,"Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit",N
+G0444,"Annual depression screening, 15 minutes",N
+80051,"Blood test panel for electrolytes (sodium potassium, chloride, carbon dioxide)",N
+29125,Application of nonmoveable forearm to hand splint,N
+82607,Cyanocobalamin (vitamin b-12) level,N
+83550,Iron binding capacity,N
+84403,"Testosterone (hormone) level, total",N
+51702,Simple insertion of temporary bladder tube,N
+88333,"Pathology cytologic examination of specimen during surgery, initial site",N
+88334,"Pathology cytologic examination of specimen during surgery, each additional site",N
+Q4188,"Amnioarmor, per square centimeter",N
+87118,Identification of mycobacteria (tb or tb like organism),N
+94060,Test to measure expiratory airflow and volume changes before and after medication administration,N
